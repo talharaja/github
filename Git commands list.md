@@ -28,39 +28,39 @@
 `git fetch`
 `git pull`
 
-### Section 3:
-git branch
-git switch
+### Section 3:  
+git branch  
+git switch  
  
-### Rename:
-git switch <branch>
-git branch -m <new_name>
+### Rename:  
+git switch <branch>  
+git branch -m <new_name>  
 
-### Delete branch
-git branch -d <branch>
-git branch -D <branch>
+### Delete branch  
+git branch -d <branch>  
+git branch -D <branch>  
 
-undoing changes 
-git checkout
-git log --oneline
+undoing changes  
+git checkout  
+git log --online  
 
-### Restore changes
-git restore --staged <file>
+### Restore changes  
+git restore --staged <file>  
 
-Git reset
-git reset
-git reset <hash> --hard
+### Git reset  
+git reset  
+git reset <hash> --hard  
 
-Git Revert
-git revert (safer alternative to git reset)
+### Git Revert  
+git revert (safer alternative to git reset)  
 
-Git stash
-git stash
-git stash pop
-git stash apply
+### Git Stash  
+git stash  
+git stash pop  
+git stash apply  
 
-### remote commands
-git remote
-git remote -v
-git remote add <name> <url>
-git remote rm <name>
+### Remote commands  
+git remote  
+git remote -v  
+git remote add <name> <url>  
+git remote rm <name>  
