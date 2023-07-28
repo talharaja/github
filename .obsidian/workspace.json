@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Procedure.md",
+                "file": "Git commands list.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Procedure.md",
+                "file": "Git commands list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Procedure.md",
+                "file": "Git commands list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Procedure.md"
+                "file": "Git commands list.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ade62af9c74a8a3",
+  "active": "02bcdfb19969e534",
   "lastOpenFiles": [
-    "git-commands.md",
     "Procedure.md",
+    "Git commands list.md",
     "check-file.md"
   ]
 }
