@@ -6,10 +6,10 @@ Use below commands after creating a folder on local machine.
 	`git commit -m "first commit"`  
 
 Then, create repo on Github.  
-	`git remote add origin https://url.git    `
+	`git remote add origin https://url.git`  
 	`git push -u origin main`  
 
 Additional commands:
-	`git status`
-	`git log`
-	`git remote -v`
+	`git status`  
+	`git log`  
+	`git remote -v`  
